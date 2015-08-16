@@ -1,0 +1,31 @@
+{
+  "name": "iterative-permutation",
+  "version": "1.0.0",
+  "description": "Fast, iterative implementation of Heap's Algorithm",
+  "main": "iterative-permutation.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcard/iterative-permutation.git"
+  },
+  "keywords": [
+    "permutation",
+    "iterative",
+    "array",
+    "heap",
+    "algorithm",
+    "nonrecursive"
+  ],
+  "author": "Brian Card",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcard/iterative-permutation/issues"
+  },
+  "homepage": "https://github.com/bcard/iterative-permutation",
+  "devDependencies": {
+    "assert-diff": "^1.0.1",
+    "underscore": "^1.8.3"
+  }
+}
